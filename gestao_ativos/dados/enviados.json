@@ -1,0 +1,1050 @@
+[
+    {
+        "imei": "355123456789015",
+        "nome": "Ana Souza",
+        "cd_loja": "SEDE CORP - COMPRAS SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "iPhone 11",
+        "data_envio": "2026-08-10"
+    },
+    {
+        "imei": "355123456789016",
+        "nome": "Bruno Costa",
+        "cd_loja": "LOJA CENTRO",
+        "canal": "VAREJO",
+        "modelo": "Samsung Galaxy S23",
+        "data_envio": "2026-08-15"
+    },
+    {
+        "imei": "353210503329953",
+        "nome": "ROS 338",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501886012",
+        "nome": " Flavio Wierzbick",
+        "cd_loja": "CD RS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503307330",
+        "nome": "ROS 12",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503296079",
+        "nome": "ROS 433",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210502017633",
+        "nome": "DML 15",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503302935",
+        "nome": "ROS 483",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503292755",
+        "nome": "JOALDO GOMES SILVA",
+        "cd_loja": "CD BA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503300517",
+        "nome": "MIRIAM BARBOSA BORGES",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501878019",
+        "nome": "JOSEANE SANTOS RAMOS",
+        "cd_loja": "CD SERRA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503293050",
+        "nome": "DML 650",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294918",
+        "nome": "THAIS MIRANDA DA SILVA",
+        "cd_loja": "CD SERGIPE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501879413",
+        "nome": "ROS 467",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210502015231",
+        "nome": "ROS 401",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503311712",
+        "nome": " INGRID LASSANCE GABRIEL DIAS",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501914475",
+        "nome": "TMO 108",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501916033",
+        "nome": "FILIAL 237",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503327155",
+        "nome": "ROS 416",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503297838",
+        "nome": "CARLA REGINA DOS SANTOS PEREIRA",
+        "cd_loja": "CD SÃO CARLOS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501915852",
+        "nome": " FELIPE SANTOS BASTOS",
+        "cd_loja": "CD SERRA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503330357",
+        "nome": "TMO 112",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503327056",
+        "nome": "ROS 365",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503278978",
+        "nome": "ROS 340",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503317453",
+        "nome": " DANIELLE PEREIRA BRITO",
+        "cd_loja": "CD ES",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503298331",
+        "nome": "MOISES NOBREGA CANDIDO",
+        "cd_loja": "CD SÃO CARLOS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503299297",
+        "nome": "DML 634",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503327379",
+        "nome": " Leonardo Montanha",
+        "cd_loja": "CD SÃO CARLOS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503261511",
+        "nome": "MARCOS ROBERTO DA PAZ",
+        "cd_loja": "CD SÃO CARLOS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501917890",
+        "nome": "ROS 333",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503314278",
+        "nome": "LEONOR VENTURA FLORIANO DA SILVA",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503300491",
+        "nome": "TMO 121",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503312793",
+        "nome": "ROS 394",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503301937",
+        "nome": "Estefani Vieira Rodrigues",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503303339",
+        "nome": "DML 642",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501867178",
+        "nome": "DML 650",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503292870",
+        "nome": "TMO 121",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501819732",
+        "nome": "MARCIELE DE OLIVEIRA MARTINS",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503326934",
+        "nome": "KETELINE AIME SILVEIRA DE LIMA",
+        "cd_loja": "CD CURITIBA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503323998",
+        "nome": "DML 642",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501850711",
+        "nome": "FRANCIELLI BADIN CASSANELLI",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501866139",
+        "nome": "DML 26",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501875791",
+        "nome": "ROS 479",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503295857",
+        "nome": "ROS 423",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501869539",
+        "nome": " Jose Miguel da Silva dos Anjos",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501879439",
+        "nome": "ROS 419",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503292656",
+        "nome": "TALITA NOVAES DE OLIVEIRA",
+        "cd_loja": "CD BA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503293878",
+        "nome": "ROS 301",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503270314",
+        "nome": "ROS 368",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503324913",
+        "nome": "FILIAL 237",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503311894",
+        "nome": "Deuclenio Luciano da Silva Junior",
+        "cd_loja": "CD BRASILIA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501849416",
+        "nome": "TMO 108",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503302950",
+        "nome": " EDUARDO DE ALBUQUERQUE RIBEIRO DA SILVA",
+        "cd_loja": "CD PERNAMBUCO",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501891590",
+        "nome": "ROS 467",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501859498",
+        "nome": "Graciela Vicente",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503297853",
+        "nome": "DML 634",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503297531",
+        "nome": "ROS 29",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503292730",
+        "nome": "DML 649",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503268631",
+        "nome": " UBIRATAN DE OLIVEIRA VIEIRA DE VASCONCELOS",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294017",
+        "nome": "WESLEI ISAC DOS PASSOS",
+        "cd_loja": "CD GOIAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503304873",
+        "nome": "ROS 433",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503299271",
+        "nome": "DOUGLAS FELIPE NEIVA DA SILVA",
+        "cd_loja": "CD PR",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503295998",
+        "nome": "DML 608",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503296095",
+        "nome": "ROS 425",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294835",
+        "nome": "ROS 338",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501888331",
+        "nome": "Luis Felipe Coelho dos Santos",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503298596",
+        "nome": "DML 649",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503298851",
+        "nome": "DML 09",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503312579",
+        "nome": "ROS 394",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501887093",
+        "nome": "REBECA CHAVES LUCAS",
+        "cd_loja": "CD SERRA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501891319",
+        "nome": "ROS 419",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503324293",
+        "nome": "THALYTA DA SILVA FERREIRA",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503261917",
+        "nome": "- DML 44",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503292631",
+        "nome": "ROS 434",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503282095",
+        "nome": "Joane Grayce",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501879330",
+        "nome": "ETNA PAULICEA MARQUES DA SILVA",
+        "cd_loja": "CD PARAIBA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501877235",
+        "nome": "ROS 333",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503296954",
+        "nome": "DML 26",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503296376",
+        "nome": "DML 15",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501879793",
+        "nome": " IONARA DOS SANTOS FERREIRA",
+        "cd_loja": "CD CURITIBA",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294819",
+        "nome": "POLIANE DOS SANTOS",
+        "cd_loja": "CD ES",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503307595",
+        "nome": "Newton",
+        "cd_loja": "CD GO",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503301317",
+        "nome": "LUCIANA ANDREIA DOS SANTOS",
+        "cd_loja": "CD CONTAGEM",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503302711",
+        "nome": "HELLEN KAROLINY SALLES MONGE",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503297135",
+        "nome": "ROS 416",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503301218",
+        "nome": "ROS 434",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503287458",
+        "nome": "Raquel de Oliveira Guimarães",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501840951",
+        "nome": "TMO 115",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503307553",
+        "nome": "ROS 481",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503297150",
+        "nome": "- DML 44",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503311357",
+        "nome": "Diego Siqueira Silva",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503296772",
+        "nome": "ROS 423",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503302075",
+        "nome": "ROS 06",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503271833",
+        "nome": "ROS 481",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503268656",
+        "nome": "ALEXANDRO KATUMI ABE",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501892838",
+        "nome": " ESTHER MORAES SENRA",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503327197",
+        "nome": "Caroline de Aguiar Guimaraes",
+        "cd_loja": "CD CAMPO GRANDE",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503290593",
+        "nome": "ROS 483",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501829814",
+        "nome": "TATIANA CARDOSO DUARTE",
+        "cd_loja": "TRADE DISTRIBUIÇÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501876294",
+        "nome": "ROS 479",
+        "cd_loja": "EXPANSÃO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503308379",
+        "nome": "MARIANY SOUZA OLIVEIRA",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501877672",
+        "nome": "Flávio",
+        "cd_loja": "CD CANOAS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501875312",
+        "nome": "Bianca Dionisio",
+        "cd_loja": "CD DF",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501806978",
+        "nome": "Camila Nunes",
+        "cd_loja": "CD RS",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503321455",
+        "nome": "Marjure",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503293738",
+        "nome": "Clebson",
+        "cd_loja": "CD ITAPEVI",
+        "canal": "CD",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503291294",
+        "nome": "TMO 148",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503289793",
+        "nome": "TMO 149",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503325332",
+        "nome": "TMO 155",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503295675",
+        "nome": "TMO 155",
+        "cd_loja": "LOJA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976149078",
+        "nome": "CAROLINA GOES DE SOUSA",
+        "cd_loja": "SEDE CORP- COMPRAS SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976149938",
+        "nome": "FABIANA ANDRADE RODRIGUES",
+        "cd_loja": "SEDE CORP- COMPRAS SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976141117",
+        "nome": "DOUGLAS RODRIGUES PEREIRA MACHADO",
+        "cd_loja": "SEDE CORP- COMPRAS SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503310334",
+        "nome": "BYANCA FARIA LIMA",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503329755",
+        "nome": "EDUARDO GORINSTEIN",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503322073",
+        "nome": "CD CURITIBA",
+        "cd_loja": "Antonio Sidnei",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294439",
+        "nome": "SEDE CORPORATIVO",
+        "cd_loja": "Ana Elisa",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501867434",
+        "nome": "CD PERNAMBUCO",
+        "cd_loja": "Byanka",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503304154",
+        "nome": "SEDE CORPORATIVO",
+        "cd_loja": "ANDRESSA HENRIQUES DE CERQUEIRA LIMA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294512",
+        "nome": "CD BA",
+        "cd_loja": "ANA PATRICIA MARTINS DE SOUZA",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501875494",
+        "nome": "SETOR MARCAS EXCLUSIVAS",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503302273",
+        "nome": "HUGO VALTER ALVES PEREIRA",
+        "cd_loja": "OPERAÇÃO RS",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501808974",
+        "nome": "CD RJ",
+        "cd_loja": "Anielle",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501825499",
+        "nome": "VIVIANE FRAGA ARAUJO",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210502015454",
+        "nome": "Clecio dos Santos Pereira",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503309294",
+        "nome": "Camila barreto de Almeida",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210503294330",
+        "nome": "Erika Reicher Martins",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "353210501922890",
+        "nome": "CARLOS ALEXANDRE ALVES FIGUEIRA",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976155638",
+        "nome": "ELIS SANTANA NERE - ELIS SANTANA NERE",
+        "cd_loja": "SEDE CORPORATIVO",
+        "canal": "VAREJO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976155257",
+        "nome": "Nilson",
+        "cd_loja": "SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    },
+    {
+        "imei": "358217976155570",
+        "nome": "SIMONE BARBOSA FERREIRA",
+        "cd_loja": "SPECIALTY",
+        "canal": "4BIO",
+        "modelo": "",
+        "data_envio": "2026-09-08"
+    }
+]

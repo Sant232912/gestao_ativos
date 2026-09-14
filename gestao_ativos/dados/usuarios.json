@@ -1,0 +1,11 @@
+[
+    {
+        "id": "6a4fd4ecd632a",
+        "nome": "Administrador",
+        "email": "admin@gestao.local",
+        "senha": "$2y$10$BLzlP8gYd4cWzSQ6yV5FVuVv2E.A9hQAvyjHsAKgLtSxmXQ68yYTW",
+        "perfil": "admin",
+        "ativo": true,
+        "dataCriacao": "2026-07-09 19:05:48"
+    }
+]
