@@ -1,0 +1,20 @@
+[
+    {
+        "imei": "355123456789012",
+        "modelo": "iPhone 12",
+        "status": "em_estoque",
+        "observacao": "Estoque inicial"
+    },
+    {
+        "imei": "355123456789013",
+        "modelo": "Samsung Galaxy A54",
+        "status": "pendente",
+        "observacao": "Aguardando conferência"
+    },
+    {
+        "imei": "355123456789014",
+        "modelo": "Motorola G Power",
+        "status": "em_estoque",
+        "observacao": "Disponível para entrega"
+    }
+]

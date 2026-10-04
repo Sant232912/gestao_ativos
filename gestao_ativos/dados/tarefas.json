@@ -1,0 +1,10 @@
+{
+    "6a4fd4ecd632a": {
+        "tarefas": [],
+        "lembrete": {
+            "ativo": false,
+            "proximoAlerta": null
+        },
+        "migracaoLocalConcluida": true
+    }
+}

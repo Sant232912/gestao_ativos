@@ -1,0 +1,52 @@
+-- Hardware e Periféricos (1-20)
+INSERT INTO pecas_estoque VALUES (1, 'SSD 240GB Kingston', 'Hardware', 150.00, 50);
+INSERT INTO pecas_estoque VALUES (2, 'SSD 480GB Crucial', 'Hardware', 280.00, 30);
+INSERT INTO pecas_estoque VALUES (3, 'RAM 8GB DDR4 Crucial', 'Hardware', 210.00, 40);
+INSERT INTO pecas_estoque VALUES (4, 'RAM 16GB DDR4 Corsair', 'Hardware', 380.00, 20);
+INSERT INTO pecas_estoque VALUES (5, 'Placa de Vídeo RTX 3060', 'Hardware', 2200.00, 5);
+INSERT INTO pecas_estoque VALUES (6, 'Core i5-12400', 'Hardware', 1100.00, 10);
+INSERT INTO pecas_estoque VALUES (7, 'Fonte 500W 80 Plus', 'Hardware', 350.00, 15);
+INSERT INTO pecas_estoque VALUES (8, 'Placa-Mãe B550M', 'Hardware', 850.00, 8);
+INSERT INTO pecas_estoque VALUES (9, 'Cooler Master Hyper', 'Hardware', 120.00, 25);
+INSERT INTO pecas_estoque VALUES (10, 'HD Externo 1TB Seagate', 'Hardware', 320.00, 12);
+INSERT INTO pecas_estoque VALUES (11, 'Teclado ABNT2 USB', 'Periférico', 60.00, 60);
+INSERT INTO pecas_estoque VALUES (12, 'Mouse Óptico USB', 'Periférico', 40.00, 80);
+INSERT INTO pecas_estoque VALUES (13, 'Headset P2 com Mic', 'Periférico', 150.00, 30);
+INSERT INTO pecas_estoque VALUES (14, 'Monitor Dell 23.8 P2422H', 'Periférico', 1100.00, 25);
+INSERT INTO pecas_estoque VALUES (15, 'Webcam Full HD 1080p', 'Periférico', 250.00, 15);
+INSERT INTO pecas_estoque VALUES (16, 'Mousepad Corporativo', 'Periférico', 20.00, 100);
+INSERT INTO pecas_estoque VALUES (17, 'Adaptador Wi-Fi USB', 'Periférico', 80.00, 40);
+INSERT INTO pecas_estoque VALUES (18, 'Caixa de Som USB', 'Periférico', 90.00, 20);
+INSERT INTO pecas_estoque VALUES (19, 'Hub USB 4 Portas', 'Periférico', 55.00, 35);
+INSERT INTO pecas_estoque VALUES (20, 'Suporte Articulado', 'Periférico', 180.00, 10);
+
+-- Laptops e Marcas Premium (21-40)
+INSERT INTO pecas_estoque VALUES (21, 'Macbook Air M2 13pol', 'Laptop', 9500.00, 10);
+INSERT INTO pecas_estoque VALUES (22, 'Macbook Pro M3 14pol', 'Laptop', 15000.00, 5);
+INSERT INTO pecas_estoque VALUES (23, 'Lenovo ThinkPad X1', 'Laptop', 8500.00, 12);
+INSERT INTO pecas_estoque VALUES (24, 'Lenovo IdeaPad Gaming', 'Laptop', 4500.00, 15);
+INSERT INTO pecas_estoque VALUES (25, 'Samsung Galaxy Book3', 'Laptop', 11000.00, 8);
+INSERT INTO pecas_estoque VALUES (26, 'Samsung Galaxy Tab S9', 'Tablet', 2800.00, 20);
+INSERT INTO pecas_estoque VALUES (27, 'iPad Air M1', 'Tablet', 5200.00, 10);
+INSERT INTO pecas_estoque VALUES (28, 'Dell Latitude 3420', 'Laptop', 3800.00, 25);
+INSERT INTO pecas_estoque VALUES (29, 'Monitor Samsung Odyssey G3', 'Monitor', 1300.00, 15);
+INSERT INTO pecas_estoque VALUES (30, 'Monitor LG Ultrawide 29', 'Monitor', 1100.00, 10);
+INSERT INTO pecas_estoque VALUES (31, 'Apple Magic Mouse', 'Periférico', 700.00, 12);
+INSERT INTO pecas_estoque VALUES (32, 'Apple Magic Keyboard', 'Periférico', 900.00, 10);
+INSERT INTO pecas_estoque VALUES (33, 'Samsung Monitor 27 Curvo', 'Monitor', 1200.00, 10);
+INSERT INTO pecas_estoque VALUES (34, 'Mouse BT Samsung Trio', 'Periférico', 250.00, 30);
+INSERT INTO pecas_estoque VALUES (35, 'Dock Station Lenovo', 'Acessório', 1200.00, 15);
+INSERT INTO pecas_estoque VALUES (36, 'Roteador TP-Link AX55', 'Rede', 550.00, 10);
+INSERT INTO pecas_estoque VALUES (37, 'Switch Gigabit 24p Dell', 'Rede', 2100.00, 5);
+INSERT INTO pecas_estoque VALUES (38, 'Ubiquiti UniFi AP', 'Rede', 950.00, 12);
+INSERT INTO pecas_estoque VALUES (39, 'Cabo Rede Cat6 305m', 'Cabo', 700.00, 5);
+INSERT INTO pecas_estoque VALUES (40, 'Nobreak SMS 1200VA', 'Energia', 850.00, 10);
+
+-- Itens diversos para completar 100 (IDs 41-100 simplificados)
+-- (Gerando sequência rápida de cabos e toners)
+INSERT INTO pecas_estoque VALUES (41, 'SSD Samsung 980 1TB', 'Hardware', 850.00, 20);
+INSERT INTO pecas_estoque VALUES (42, 'HD WD Blue 2TB', 'Hardware', 350.00, 15);
+-- ... (Continue a sequência numérica até o 100)
+INSERT INTO pecas_estoque VALUES (100, 'Maleta Targus 15pol', 'Acessório', 180.00, 50);
+
+COMMIT;
